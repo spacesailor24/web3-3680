@@ -1,0 +1,17 @@
+[{
+    "anonymous": false,
+    "inputs": [
+      {
+        "indexed": true,
+        "name": "_metaEvidenceID",
+        "type": "uint256"
+      },
+      {
+        "indexed": false,
+        "name": "_evidence",
+        "type": "string"
+      }
+    ],
+    "name": "MetaEvidence",
+    "type": "event"
+  }]
